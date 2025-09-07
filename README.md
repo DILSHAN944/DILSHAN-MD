@@ -1,2 +1,1 @@
-# DILSHAN-MD
-Whatsapp Bot
+# THENUWA-XMD
